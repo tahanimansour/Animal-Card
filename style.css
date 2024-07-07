@@ -1,0 +1,43 @@
+img{
+    width: 300px;
+     height: 200px;
+    margin-bottom: 10px;
+}
+#a-intrest{
+    font-style: italic;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#label1, #label2,#label3, #label4{
+    font-weight: bold;
+    
+}
+#labels
+{
+list-style: none;
+margin-left: -30px;
+
+}
+
+#info , #all-block{
+    border: 1px gray solid;
+    border-radius: 10px;
+}
+#all-block{
+    padding: 10px;
+    width: 300px;
+    box-shadow: 2px 2px 2px 3px rgb(217, 215, 215);
+    
+
+}
+#description{
+
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 30px;
+}
+
+
+
+
+
